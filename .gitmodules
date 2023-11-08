@@ -1,0 +1,6 @@
+[submodule "Tesis20180339BackEnd"]
+	path = Tesis20180339BackEnd
+	url = https://github.com/Char-Mel/Tesis20180339BackEnd
+[submodule "Tesis20180339FrontEnd"]
+	path = Tesis20180339FrontEnd
+	url = https://github.com/Char-Mel/Tesis20180339FrontEnd
